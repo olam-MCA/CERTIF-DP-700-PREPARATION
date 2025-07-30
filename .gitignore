@@ -1,0 +1,26 @@
+
+# Temporary files from Microsoft Word and Excel
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+
+
+# Generic temporary files
+*.tmp
+*.temp
+
+# Power BI Desktop temporary files
+*.pbip-cache
+*.pbix~
+*.bak
+
+# Image editor temporary files (common patterns)
+*.psd~
+*.xcf~
+*.png~
+*.jpg~
+*.jpeg~
+*.tif~
+*.tiff~
+*.bmp~
